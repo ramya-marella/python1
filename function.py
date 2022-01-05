@@ -11,7 +11,7 @@ b = 4
 c = adding(a, b)
 d = subtraction(a,b)
 print(c)
-print(d)
+
 
 
 
